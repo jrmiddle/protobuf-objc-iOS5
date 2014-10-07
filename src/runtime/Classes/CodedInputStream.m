@@ -15,6 +15,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+#import "UnknownFieldSet_Builder.h"
 #import "CodedInputStream.h"
 
 #import "Message_Builder.h"
